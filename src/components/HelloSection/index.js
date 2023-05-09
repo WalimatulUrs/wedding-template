@@ -1,4 +1,4 @@
-import ZakiIka from '@assets/images/people1-no-bg.png';
+import FulanFulanah from '@assets/images/people1-no-bg.png';
 import React, { Fragment } from 'react';
 import { styWrapper } from './styles';
 
@@ -24,22 +24,22 @@ function HelloSection({ invitedPeople }) {
             <div className="col-lg-5 col-md-5">
               <div className="couple-half">
                 <div className="desc-groom">
-                  <h3 className="main-font">M. Zakiyudin</h3>
+                  <h3 className="main-font">Fulan Panjang</h3>
                   <p className="parent-name parent-name__top">
-                    Putra Bapak Husen ( Almarhum ) <br />& Ibu Hj. Migarseh ( Almarhumah )
+                    Putra Bapak Fulan <br />& Ibu Fulanah
                   </p>
                 </div>
               </div>
             </div>
             <div className="col-lg-2 col-md-2">
-              <img src={ZakiIka} alt="groom" className="img-responsive" loading="lazy" style={{ filter: "drop-shadow(0 6px 6px rgba(0, 0, 0, 0.5))", marginTop: '-28px', transform: 'scaleX(-1)' }} />
+              <img src={FulanFulanah} alt="groom" className="img-responsive" loading="lazy" style={{ filter: "drop-shadow(0 6px 6px rgba(0, 0, 0, 0.5))", marginTop: '-28px', transform: 'scaleX(-1)' }} />
             </div>
             <div className="col-lg-5 col-md-5">
               <div className="couple-half">
                 <div className="desc-bride">
-                  <h3 className="main-font">Mar'atus Sholihah</h3>
+                  <h3 className="main-font">Fulanah</h3>
                   <p className="parent-name">
-                    Putri H.Sulaiman Hamid ( Almarhum ) <br />& Ibu Mucharrofah
+                    Putri Bapak Fulan <br />& Ibu Fulanah
                   </p>
                 </div>
               </div>
